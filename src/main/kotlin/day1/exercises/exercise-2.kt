@@ -1,3 +1,5 @@
+package day1.exercises
+
 fun main() {
     val (x, y, z) = Triple(3, 4, 5)
     println("""

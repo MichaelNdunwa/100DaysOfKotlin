@@ -1,3 +1,5 @@
+package day1
+
 fun main() {
     // var, val & boolean:
     var myVariable = 2

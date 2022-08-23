@@ -1,3 +1,5 @@
+package day1.exercises
+
 /**
  * Save your age in a variable and your favourite number in a variable.file
  * Print out but your age and favourite number with a statement.

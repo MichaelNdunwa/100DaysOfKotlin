@@ -1,3 +1,5 @@
+package day1
+
 fun main() {
     val a = 4
     val b = 6
