@@ -1,7 +1,7 @@
 package day1.exercises
 
 /**
- * Calculate the volume of a Shpere:
+ * Calculate the volume of a Sphere:
  * Use this formula for the volume: 0.75 * PI * radius^3
  */
 
